@@ -136,6 +136,7 @@ const App = () => {
             </ul>
           ) : (
             <p className="text-gray-500">No transactions yet.</p>
+            
           )}
         </div>
       </div>
